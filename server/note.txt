@@ -1,0 +1,22 @@
+npm init -y -- para criacao do arquivo package.json
+npm install fastify -- uma dependencia 
+vamos usar typescript
+npm install typescript -D -- uma dependencia
+npx tsc --init -- para que o node consiga ler typescrip.  
+npm i tsx -D -- uma dependencia para executa node com typescrip sem fazer nenhuma conversao
+npx tsx arquivo -- forma pra executa o node no typescrip
+
+mudar o script no package.json para tsx watch arquivo -- para executar de forma mais rapida, usando apenas npm run nome da chave
+
+npm i -D prisma
+npm i @prisma/client
+npx prisma init --datasource-provider SQLite
+
+npx prisma  migrate dev -- para migrar o sccript de bd
+npx prisma studio
+import {PrismaClient} from '@prisma/client'  const prisma= new PrismaClient -- para conectar o bd com projecto
+
+
+Agora o front-end
+
+npm create vite@latest
