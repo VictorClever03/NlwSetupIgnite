@@ -15,10 +15,12 @@
     "axios": "^1.6.1",
     "dayjs": "^1.11.10",
     "fastify": "^4.24.3",
+    "web-push": "^3.6.6",
     "zod": "^3.22.4"
   },
   "devDependencies": {
     "@mermaid-js/mermaid-cli": "^10.6.0",
+    "@types/web-push": "^3.6.3",
     "prisma": "^5.5.2",
     "prisma-erd-generator": "^1.11.1",
     "tsx": "^3.14.0",
