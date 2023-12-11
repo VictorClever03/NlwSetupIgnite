@@ -15,7 +15,7 @@ NLW(Next Level Week Setup) é um evento exclusivo e gratuito, promovido pela Roc
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src="web/src/assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
