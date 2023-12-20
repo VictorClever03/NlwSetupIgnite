@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 - [Zod](https://zod.dev/)
-- [NextJS](https://nextjs.org/)
+- [ViteJS](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [DayJS](https://day.js.org/)
 - [JS Cookie](https://github.com/js-cookie/js-cookie)
